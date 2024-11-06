@@ -1,4 +1,4 @@
-# mft-anders-2024
+# stockticker-anderssonderby-2024
 
 ## Description
 Simple Stock Price Ticker application consisting of a backend server that generates and streams stock prices using Server-Sent Events (SSE), and a console-based client that receives and displays the stock prices in real-time.
@@ -11,7 +11,7 @@ Simple Stock Price Ticker application consisting of a backend server that genera
 ## Setup / How to run
 ### Backend Server setup
 1. Clone the repository
-    > git clone https://github.com/anderssonderby/mft-anders-2024
+    > git clone https://github.com/anderssonderby/stockticker-anderssonderby-2024.git
 2. Navigate to the backend project directory
     > cd StockTicker/StockTickerBackend
 3. Restore dependencies and build the project
